@@ -2,3 +2,5 @@ Je ne suis pas informaticien.
 Il n'y aura donc pas de code dans les fichiers
 
 Un jour je pourrai en mettre.....
+
+Prise en compte du bon champ pour la saisi des infos du commit sur en ligne
